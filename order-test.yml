@@ -8,7 +8,7 @@ spring:
       url: jdbc:mysql://127.0.0.1/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
 
 dev:
-  git-test
+  git-demo
 
 girl:
   name: haha
