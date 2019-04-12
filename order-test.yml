@@ -16,7 +16,7 @@ spring:
     port: 6379
 
 dev:
-  test2
+  test1
 
 girl:
   name: haha
