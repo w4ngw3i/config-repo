@@ -5,4 +5,9 @@ zuul:
        serviceId: product
        
        
-env:demo
+env:
+ demo
+
+girl:
+  name: test
+  age: 88
