@@ -3,3 +3,6 @@ zuul:
     aaa:
        path: /wangwei/**
        serviceId: product
+       
+       
+env:demo
