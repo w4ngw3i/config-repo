@@ -1,5 +1,5 @@
 zuul:
   routes:
     aaa:
-       path: /myproduct/**
+       path: /wangwei/**
        serviceId: product
