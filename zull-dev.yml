@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    aaa:
+       path: /wangwei/**
+       serviceId: product
