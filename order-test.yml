@@ -7,7 +7,7 @@ spring:
       password: Root8818.
       url: jdbc:mysql://39.107.234.188/springcloud?characterEncoding=utf-8&useSSL=false
   rabbitmq:
-    host: localhost
+    host: 39.107.234.188
     port: 5672
     username: guest
     password: guest
